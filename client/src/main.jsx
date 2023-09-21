@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-u0mhtu6lsvrvyrv2.us.auth0.com"
      clientId="4nkXX6DQIAM1w86TuR9GYz7VLOQRCFuv"
      authorizationParams={{
-      redirect_uri: "http://127.0.0.1:5173/"
+      redirect_uri: "https://findmynest-client.vercel.app/"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
